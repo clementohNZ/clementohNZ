@@ -69,13 +69,9 @@
 ![MacOS](http://img.shields.io/badge/-MacOS-0078D6?style=flat-square&logo=apple&logoColor=ffffff)
 ![Linux](http://img.shields.io/badge/-Linux-23E44D27?style=flat-square&logo=linux&logoColor=ffffff)
 
-<br/>
-
 ---
 
-<br/>
-
-  <h2 align="center"> Github Statistics 📈 </h2>
+  <h3 align="center"> Github Statistics 📈 </h3>
   
   <div align="center"> 
      <a href="">
