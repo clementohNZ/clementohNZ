@@ -86,12 +86,8 @@
 </div
 
 <br/>
+<br/>
 
----
-
-### ⭐️ From [clementohNZ](https://github.com/clementohNZ)
-
----
 <p align="center">
 Show some ❤️ by starring some of the repositories!
 </p>
